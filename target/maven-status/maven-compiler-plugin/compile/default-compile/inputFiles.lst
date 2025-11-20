@@ -1,0 +1,11 @@
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocerystorewebsite/v4/client/resources/JakartaEE10Resource.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocerystorewebsite/v4/client/beans/LoginBean.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocerystorewebsite/v4/client/beans/FoodBean.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocertstorewebsite/v4/client/models/Foods.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocerystorewebsite/v4/client/PersistenceClient.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocertstorewebsite/v4/client/exceptions/AlreadyExistsException.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocerystorewebsite/v4/client/beans/UserBean.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocertstorewebsite/v4/client/models/Users.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocertstorewebsite/v4/client/exceptions/DoesNotExistException.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocertstorewebsite/v4/client/exceptions/InsufficientBalanceException.java
+/Users/admin/Desktop/old/GroceryStoreWebsite-v4-Client/src/main/java/ch/unil/doplab/grocerystorewebsite/v4/client/JakartaRestConfiguration.java
